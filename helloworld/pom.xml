@@ -8,10 +8,8 @@
   </parent>
 
   <modelVersion>4.0.0</modelVersion>
-  <groupId>uweweng</groupId>
   <artifactId>uweweng-helloworld</artifactId>
   <packaging>jar</packaging>
-  <version>1.2-SNAPSHOT</version>
   <name>Hello world</name>
   <url>https://github.com/uweweng/uweweng</url>
 
